@@ -1,0 +1,3 @@
+A temperatura influencia diretamente as vendas de sorvete.
+Dias quentes geram aumento significativo na demanda.
+Modelos preditivos podem reduzir desperdícios.
